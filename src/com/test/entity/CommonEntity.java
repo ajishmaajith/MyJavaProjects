@@ -1,7 +1,9 @@
 package com.test.entity;
 
 import java.util.List;
-
+/*
+ * class name changed
+ */
 public class CommonEntity {
 	private static List<Student> studentList;
 	private static List<Teacher> teacherList;
