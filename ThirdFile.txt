@@ -1,0 +1,21 @@
+#Year,Student Name,Mark1,Mark2,Mark3,Teacher Name,Subject Name
+year=2000, studentName=Mintu, mark1=10, mark2=20, mark3=120, teacherName=Geetha2, subjectName=Subject2
+year=2011, studentName=Nandu, mark1=50, mark2=210, mark3=340, teacherName=Geetha1, subjectName=Subject2
+year=2019, studentName=Abhilash, mark1=55, mark2=830, mark3=30, teacherName=Manju2, subjectName=Subject2
+year=2017, studentName=Rintu, mark1=100, mark2=220, mark3=140, teacherName=Geetha3, subjectName=Subject2
+year=2009, studentName=Vava, mark1=110, mark2=630, mark3=600, teacherName=Geetha5, subjectName=Subject2
+year=1990, studentName=Maneesha, mark1=111, mark2=280, mark3=544, teacherName=Manju5, subjectName=Subject2
+year=2010, studentName=Achu, mark1=200, mark2=130, mark3=341, teacherName=Geetha, subjectName=Subject2
+year=2006, studentName=Gokul, mark1=205, mark2=260, mark3=640, teacherName=Geetha8, subjectName=Subject2
+year=2023, studentName=kicha, mark1=208, mark2=238, mark3=345, teacherName=Manju4, subjectName=Subject2
+year=2014, studentName=Krishna, mark1=210, mark2=530, mark3=40, teacherName=Geetha4, subjectName=Subject2
+year=2004, studentName=Rithun, mark1=220, mark2=130, mark3=560, teacherName=Anju1, subjectName=Subject1
+year=2007, studentName=Aswany, mark1=230, mark2=730, mark3=350, teacherName=Geetha7, subjectName=Subject2
+year=2018, studentName=Ajishma, mark1=255, mark2=230, mark3=740, teacherName=Manju1, subjectName=Subject2
+year=2008, studentName=Kuku, mark1=300, mark2=230, mark3=340, teacherName=Geetha6, subjectName=Subject2
+year=2002, studentName=Aji, mark1=320, mark2=430, mark3=90, teacherName=Anju3, subjectName=Subject1
+year=2001, studentName=Aiswarya, mark1=455, mark2=130, mark3=140, teacherName=Anju4, subjectName=Subject1
+year=2012, studentName=Kannan, mark1=500, mark2=230, mark3=240, teacherName=Manju, subjectName=Subject3
+year=2013, studentName=Abhi, mark1=600, mark2=130, mark3=340, teacherName=Anju, subjectName=Subject1
+year=2020, studentName=Achuss, mark1=660, mark2=236, mark3=142, teacherName=Manju3, subjectName=Subject2
+year=2003, studentName=Anu, mark1=800, mark2=330, mark3=640, teacherName=Anju2, subjectName=Subject1
